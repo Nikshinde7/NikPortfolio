@@ -39,7 +39,11 @@
 }
 
 .header_area .main-menu .nav-item .nav-link{
-    font: normal 500 15px/2px var(--roboto);
+    /*font: normal 500 15px/2px var(--roboto);*/
+    font-family: 'Roboto',cursive !important;
+    font-weight: 500;
+    font-kerning: normal;
+    font-size:15px/2px;
     text-transform: uppercase;
     padding: 1.7rem;
     color: var(--title-color);
@@ -98,7 +102,7 @@
 }
 
 
-
+@import url('https://fonts.googleapis.com/css?family=Roboto:500i&display=swap');
 /* End Banner Area */ 
 
 /* Start About Area */ 
@@ -109,7 +113,12 @@
 
 .site-main .about-area .about-title h2 > span{
     display: block;
-    font: normal bold 49px/ 60px var(--roboto);
+    font-family:'Roboto',cursive ;
+    font-size:49px;
+    font-style: normal;
+    font-weight: bold;
+    /*
+   font: normal bold 49px/ 60px var(--roboto)*/
     letter-spacing: 21px;
 }
 
@@ -184,13 +193,21 @@
 }
 
 .site-main .brand-area .experience-area .years-area .years{
-    font: normal bold 84px/40px var(--roboto);
+    /*font: normal bold 84px/40px var(--roboto);*/
+    font-kerning: normal;
+    font-weight: bold;
+    font-size: 84px;
+    font-family: 'Roboto',cursive;
     color: var(--primary-color2);
     z-index: 2;
 }
 
 .site-main .brand-area .experience-area .years-area h2 > span{
-    font: normal 600 22px/30px var(--roboto);
+   /* font: normal 600 22px/30px var(--roboto);*/
+    font-kerning: normal;
+    font-weight: 600;
+    font-size: 22px/30px;
+    font-family: 'Roboto',cursive;
 }
 
 .site-main .brand-area .experience-area .call-area{
@@ -239,7 +256,11 @@
 .site-main .project-area .button-group button{
     background: transparent;
     border: none;
-    font: normal 500 16px/130px var(--roboto);
+    /*font: normal 500 16px/130px var(--roboto);*/
+    font-kerning: normal;
+    font-weight: 500;
+    font-size: 16px/130px;
+    font-family: 'Roboto',cursive;
     text-transform: uppercase;
 }
 
@@ -248,7 +269,11 @@
 }
 
 .site-main .project-area .grid .our-project > .title h4{
-    font: normal 700 25px/12px var(--roboto);
+    /*font: normal 700 25px/12px var(--roboto);*/
+    font-kerning: normal;
+    font-weight: 700;
+    font-size: 25px/12px;
+    font-family: 'Roboto',cursive;
 }
 
 .site-main .project-area .grid .our-project .img a:hover img{
@@ -280,7 +305,11 @@
 }
 
 .site-main .about-area .client .about-client h4{
-    font: normal 500 21px/ 20px var(--roboto);
+  /*  font: normal 500 21px/ 20px var(--roboto);*/
+    font-kerning: normal;
+    font-weight: 500;
+    font-size: 1px;
+    font-family: 'Roboto',cursive;
 }
 
 .site-main .about-area .client .about-client p{
@@ -312,7 +341,11 @@
 }
 
 .site-main .subscribe-us-area .subscribe .subscribe-title h4{
-    font: normal 700 30px/ 30px var(--roboto);
+  /*  font: normal 700 30px/ 30px var(--roboto);*/
+    font-kerning: normal;
+    font-weight: 700;
+    font-size: 30px;
+    font-family: 'Roboto',cursive;
     color: whitesmoke;
 }
 
@@ -327,7 +360,11 @@
     border: 1px solid whitesmoke;
     background: transparent;
     color: white;
-    font: normal 500 17px/20px var(--roboto);
+   /* font: normal 500 17px/20px var(--roboto);*/
+    font-kerning: normal;
+    font-weight: 500;
+    font-size: 17px/20px;
+    font-family: 'Roboto',cursive;
 }
 
 .site-main .subscribe-us-area .subscribe form .input-textbox input::placeholder{
@@ -350,7 +387,11 @@ footer.footer-area{
 }
 
 footer.footer-area .social h5{
-    font: normal 500 23px/ 30px var(--roboto);
+   /* font: normal 500 23px/ 30px var(--roboto);*/
+   font-family: 'Roboto',cursive;
+   font-weight: 500;
+    font-kerning: normal;
+    font-size:30px
 }
 
 footer.footer-area .social a > i{
