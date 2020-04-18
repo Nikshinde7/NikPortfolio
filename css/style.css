@@ -259,12 +259,12 @@
 .site-main .project-area .button-group button{
     background: transparent;
     border: none;
-    font: normal 500 16px/130px 'Montserrat', sans-serif;
-    /*font-kerning: normal !important; 
+    /*font: normal 500 16px/130px 'Montserrat', sans-serif;*/
+    font-kerning: normal !important; 
     font-weight: 500 !important;
     font-size: 16px !important;
-    font-family: 'Baloo Paaji 2',cursive !important;*/
-    text-transform: uppercase;
+   /* font-family: 'Baloo Paaji 2',cursive !important;
+   */ text-transform: uppercase;
 }
 
 .site-main .project-area .button-group button + button{
@@ -272,12 +272,12 @@
 }
 
 .site-main .project-area .grid .our-project > .title h4{
-    font: normal 700 25px/12px 'Montserrat', sans-serif;
-    /*font-kerning: normal !important;
+    /*font: normal 700 25px/12px 'Montserrat', sans-serif;*/
+    font-kerning: normal !important;
     font-weight: 700 !important;
     font-size: 25px !important;
-    font-family: 'Baloo Paaji 2',cursive !important;*/
-}
+/*    font-family: 'Baloo Paaji 2',cursive !important;
+*/}
 
 .site-main .project-area .grid .our-project .img a:hover img{
     filter: brightness(1.1) drop-shadow(1px 8px 30px #b1afaf);
