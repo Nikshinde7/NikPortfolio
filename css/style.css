@@ -389,12 +389,12 @@ footer.footer-area{
     background: url(../img/footer-bg.png) no-repeat;
 }
 
-footer.footer-area .social h5{
-    font: normal 500 23px/ 30px 'Montserrat', sans-serif;
-  /* font-family: 'Baloo Paaji 2',cursive !important;
+footer.footer-area .social h5{/*
+    font: normal 500 23px/ 30px 'Montserrat', sans-serif;*/
+  /* font-family: 'Baloo Paaji 2',cursive !important;*/
    font-weight: 500 !important;
     font-kerning: normal !important;
-    font-size:30px !important;*/
+    font-size:30px !important;
 }
 
 footer.footer-area .social a > i{
