@@ -40,6 +40,8 @@
     font-kerning: normal;
     font-weight: 500;
 }
+
+
 /* start navigation */ 
 
 .header_area .main-menu .navbar .navbar-brand{
@@ -53,7 +55,7 @@
 
 .header_area .main-menu .nav-item .nav-link{
     /*font: normal 500 15px/2px var(--roboto);*/
-    /*font-family: 'Baloo Paaji 2',cursive !important;*/
+    font-family: 'Baloo Paaji 2',cursive !important;
     font-weight: 500 !important;
     font-kerning: normal !important;
     font-size:15px !important;
