@@ -213,10 +213,10 @@
 }
 
 .site-main .brand-area .experience-area .years-area h2 > span{
-  font: normal 600 22px/30px 'Montserrat', sans-serif;/*
+  /*font: normal 600 22px/30px 'Montserrat', sans-serif;/**/
     font-kerning: normal !important;
     font-weight: 600 !important;
-    font-size: 22px/30px !important;
+    font-size: 22px/30px !important;/*
     font-family: 'Baloo Paaji 2',cursive !important;*/
 }
 
