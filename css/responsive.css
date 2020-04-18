@@ -51,8 +51,8 @@
     }
 
     .site-main .project-area .button-group button{
-        font: normal 500 18px/40px var(--roboto);
-        
+        font: normal 500 18px/40px 'Babloo Paaji 2',cursive;
+
     }
 
     .site-main .about-area .about-title p{
